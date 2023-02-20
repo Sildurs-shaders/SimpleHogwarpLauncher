@@ -1,5 +1,5 @@
 ## SimpleHogwarpLauncher
-Simple batch launcher for Hogwarp
+Simple batch launcher for Hogwarp: https://twitter.com/HogWarp
 
 ## Installation:
 1. Move the Phoenix and Polyjuice folder from Hogwarp in to the SimpleHogwarpLauncher folder.
