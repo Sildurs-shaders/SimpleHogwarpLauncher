@@ -1,6 +1,7 @@
 ## SimpleHogwarpLauncher
 Simple batch launcher for Hogwarp: https://twitter.com/HogWarp
 Automatically moves all the required files for hogwarp and launches the game. Waiting for the process to end and move the files back into the SimpleHogwarpLauncher folder. Keeping your game files clean and unmodded.
+**No I will not provide the hogwarp files, support them on patreon and get them yourself**
 
 ## Installation:
 1. Move the Phoenix and Polyjuice folder from Hogwarp in to the SimpleHogwarpLauncher folder.
