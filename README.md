@@ -8,3 +8,8 @@ Automatically moves all the required files for hogwarp and launches the game. Wa
 3. Use the SimpleHogwarpLauncher.bat file to launch the game with hogwarp enabled.
 
 Note: The console window will stay open till hogwarts is closed, moving all the files back into the HogwarpLauncher folder, leaving your game in a clean unmodded state.
+
+## Todo:
+- Epic games version support is untested..
+- Maybe use registry to find the hogwarts folder, making the launcher work globally.
+- ???
